@@ -1,0 +1,101 @@
+body{
+  background-color: rgb(211, 211, 211); 
+}
+
+
+.navbar{
+  max-height: 57px; 
+}
+
+
+.navbar-brand { 
+  font-size : 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight : bold;
+  color : white;
+  background-color: #20B2AA;
+}
+
+
+#landing_page {
+  padding-top : 1%;
+  padding-bottom: 50px; 
+} 
+
+
+.description_content {
+  padding : 30px;
+  margin-top : 32px;
+  background-color : white;
+  padding-bottom: 50px;
+}
+
+
+.title1 {
+  font-size : 30px;
+  color :#20B2AA;
+  font-family: "Times New Roman", Times, serif;
+  font-weight : bold;
+}
+
+.title2 {
+  font-size : 25px;
+  color :#20B2AA;
+  font-family: "Times New Roman", Times, serif;
+  font-weight : bold;
+}
+
+#image1 {
+  float : left;
+  width: 300px;
+  height : 200px;
+  margin-top: 20px;
+  margin-right : 20px;
+}
+
+#image2 {
+  width: 140px;
+  height : 140px;
+}
+
+
+#image_area {
+  width:100%;
+  padding: 30px 30px 43px;
+  margin-top:32px;
+  background-color: white;
+}
+
+
+#viz_image {
+  float : top;
+  width: 680px;
+  height : 400px;
+  margin-top: 20px;
+  margin-right : 20px;
+}
+
+
+.comp_title {
+  font-size : 20px;
+  color :#20B2AA;
+  font-family: "Times New Roman", Times, serif;
+  font-weight : bold;
+  text-align : center;
+}
+
+
+#comp_image {
+  float : top;
+  width: 450px;
+  height : 300px;
+   
+}
+
+
+
+
+
+
+
+
