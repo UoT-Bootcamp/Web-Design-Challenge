@@ -36,23 +36,45 @@ There will be 4 vizualization pages. Each page contains:
 
 ![Web](WebVisualizations/large_screen_Visualizations/Max%20_Temperature_Viz.png)
 
+<br/>
+
 ### Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/max_temperature_viz.png)
-
 
 
 ### Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Humidity_viz.png)
 
+<br/>
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/humidity_viz.png)
+
+
 ### Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Cloudiness_viz.png)
 
+<br/>
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/cloudiness_viz.png)
+
+
 ### Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Wind_Speed_viz.png)
+
+<br/>
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/wind_speed_viz.png)
+
 
 # "Comparisons" page
 
@@ -67,6 +89,13 @@ This page have below specifications:
 
 ![web](WebVisualizations/large_screen_Visualizations/Comparison_viz.png)
 
+<br/>
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/comparison_viz.png)
+
+
 # "Data" page
 
 This page have below specifications:
@@ -76,8 +105,12 @@ This page have below specifications:
 
 ### Large Screen
 
-
 ![web](WebVisualizations/large_screen_Visualizations/Data_page.png)
+
+<br/>
+
+![web](WebVisualizations/small_screen_visualizations/data_viz.png)
+
 
 The website, at the top of every page, have a navigation menu that:
 
