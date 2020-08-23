@@ -93,8 +93,17 @@ body{
 #comp_image {
   float : top;
   width: 450px;
-  height : 300px;
-   
+  height : 300px; 
+}
+
+
+@media(max-width : 600px) {
+
+
+
+
+
+  
 }
 
 
