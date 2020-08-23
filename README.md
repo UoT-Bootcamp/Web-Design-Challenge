@@ -13,7 +13,7 @@ This page contains:
 * An explanation of the project.
 * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
-![web](WebVisualizations/Visualizations/Landing_page_viz.png)
+![web](WebVisualizations/large_screen_Visualizations/Landing_page_viz.png)
 
 # "Visualization" pages
 
@@ -23,13 +23,13 @@ There will be 4 vizualization pages. Each page contains:
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
 
-![Web](WebVisualizations/Visualizations/Max%20_Temperature_Viz.png)
+![Web](WebVisualizations/large_screen_Visualizations/Max%20_Temperature_Viz.png)
 
-![web](WebVisualizations/Visualizations/Humidity_viz.png)
+![web](WebVisualizations/large_screen_Visualizations/Humidity_viz.png)
 
-![web](WebVisualizations/Visualizations/Cloudiness_viz.png)
+![web](WebVisualizations/large_screen_Visualizations/Cloudiness_viz.png)
 
-![web](WebVisualizations/Visualizations/Wind_Speed_viz.png)
+![web](WebVisualizations/large_screen_Visualizations/Wind_Speed_viz.png)
 
 # "Comparisons" page
 
@@ -40,7 +40,7 @@ This page have below specifications:
     * The grid has two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
     
 
-![web](WebVisualizations/Visualizations/Comparison_viz.png)
+![web](WebVisualizations/large_screen_Visualizations/Comparison_viz.png)
 
 # "Data" page
 
@@ -50,7 +50,7 @@ This page have below specifications:
 * The table has a bootstrap table component. 
 
 
-![web](WebVisualizations/Visualizations/Data_page.png)
+![web](WebVisualizations/large_screen_Visualizations/Data_page.png)
 
 The website, at the top of every page, have a navigation menu that:
 
