@@ -8,12 +8,13 @@ body{
 }
 
 
-.navbar-brand { 
+.navbar .navbar-brand { 
   font-size : 25px;
   font-family: "Times New Roman", Times, serif;
   font-weight : bold;
   color : white;
   background-color: #20B2AA;
+  
 }
 
 
