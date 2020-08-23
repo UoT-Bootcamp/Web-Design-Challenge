@@ -3,9 +3,9 @@ body{
 }
 
 
-.navbar{
-  max-height: 57px; 
-}
+/* .navbar{
+  /* max-height: 57px;  */
+/* } */ 
 
 
 .navbar .navbar-brand { 
@@ -97,13 +97,46 @@ body{
 }
 
 
-@media(max-width : 600px) {
+@media(max-width : 760px) {
+  #image2 {
+    width: 22%;
+    /* height : 2%; */
+  }
 
+  #image_area {
+    width:100%;
+    padding: 30px 30px 43px;
+    margin-top : 0px;
+    background-color: white;
+  }
 
-
-
-
+  .navbar.navbar-light.bg-light{
+    /* max-height: 57px;  */
+    background-color: #0BADA6!important;
+  }
+/* 
+  #image1 {
+    float : left;
+    width: 300px;
+    height : 200px;
+    margin-top: 20px;
+    margin-right : 20px;
+  } */
   
+  
+  #image2 {
+    width: 100px;
+    height : 100px;
+  }
+
+
+  #viz_image {
+    float : top;
+    width: 450px;
+    height : 300px;
+    margin-top: 20px;
+    margin-right : 20px;
+  }
 }
 
 
