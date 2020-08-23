@@ -38,12 +38,14 @@ body{
   font-weight : bold;
 }
 
+
 .title2 {
   font-size : 25px;
   color :#20B2AA;
   font-family: "Times New Roman", Times, serif;
   font-weight : bold;
 }
+
 
 #image1 {
   float : left;
@@ -52,6 +54,7 @@ body{
   margin-top: 20px;
   margin-right : 20px;
 }
+
 
 #image2 {
   width: 140px;
