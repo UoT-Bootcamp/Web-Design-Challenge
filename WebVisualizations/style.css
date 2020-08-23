@@ -1,12 +1,7 @@
 body{
   background-color: rgb(211, 211, 211); 
 }
-
-
-/* .navbar{
-  /* max-height: 57px;  */
-/* } */ 
-
+ 
 
 .navbar .navbar-brand { 
   font-size : 25px;
@@ -15,7 +10,6 @@ body{
   color : white;
   background-color: #0BADA6;
   padding: 10px;
-  
 }
 
 
@@ -104,7 +98,6 @@ body{
 
   #image2 {
     width: 22%;
-    /* height : 2%; */
   }
 
   #image_area {
@@ -115,24 +108,13 @@ body{
   }
 
   .navbar.navbar-light.bg-light{
-    /* max-height: 57px;  */
     background-color: #0BADA6!important;
   }
-/* 
-  #image1 {
-    float : left;
-    width: 300px;
-    height : 200px;
-    margin-top: 20px;
-    margin-right : 20px;
-  } */
-  
   
   #image2 {
     width: 100px;
     height : 100px;
   }
-
 
   #viz_image {
     float : top;
