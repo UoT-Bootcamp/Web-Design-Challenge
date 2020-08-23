@@ -15,7 +15,7 @@ This page contains:
 
 ![web](WebVisualizations/Visualizations/Landing_page_viz.png)
 
-# "Visulization" pages
+# "Visualization" pages
 
 There will be 4 vizualization pages. Each page contains:
 
