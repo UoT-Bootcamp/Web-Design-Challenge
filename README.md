@@ -122,6 +122,6 @@ The website, at the top of every page, have a navigation menu that:
 * Is responsive (using media queries). 
 
 
-I have also deployed my website to the GitHub pages. Feel free to click the below link to visit the page:
+I have also deployed the website to the GitHub pages. Feel free to click the below link to visit the page:
 
 GitHub Pages link : 
