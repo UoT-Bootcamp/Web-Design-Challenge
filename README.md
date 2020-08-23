@@ -2,18 +2,27 @@
 
 For this project, we'll be creating a visualization dashboard website using visualizations we've created in a past project. we'll be plotting weather data.
 
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. We will also use media query to make our page responseive.
 
 This website is consist of 7 pages total, including:
 
-# "Landing" page
+## "Landing" page
 
 This page contains:
 
 * An explanation of the project.
 * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
+### Large Screen
+
 ![web](WebVisualizations/large_screen_Visualizations/Landing_page_viz.png)
+
+<br/>
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/landing_page_viz.png)
+
 
 # "Visualization" pages
 
@@ -23,11 +32,25 @@ There will be 4 vizualization pages. Each page contains:
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
 
+### Large Screen
+
 ![Web](WebVisualizations/large_screen_Visualizations/Max%20_Temperature_Viz.png)
+
+### Small Screen
+
+![web](WebVisualizations/small_screen_visualizations/max_temperature_viz.png)
+
+
+
+### Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Humidity_viz.png)
 
+### Large Screen
+
 ![web](WebVisualizations/large_screen_Visualizations/Cloudiness_viz.png)
+
+### Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Wind_Speed_viz.png)
 
@@ -40,6 +63,8 @@ This page have below specifications:
     * The grid has two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
     
 
+### Large Screen
+
 ![web](WebVisualizations/large_screen_Visualizations/Comparison_viz.png)
 
 # "Data" page
@@ -48,6 +73,8 @@ This page have below specifications:
 
 * Displays a responsive table containing the data used in the visualizations.
 * The table has a bootstrap table component. 
+
+### Large Screen
 
 
 ![web](WebVisualizations/large_screen_Visualizations/Data_page.png)
