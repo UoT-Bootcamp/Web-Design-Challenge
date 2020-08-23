@@ -6,7 +6,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 This website is consist of 7 pages total, including:
 
-# "Landing" Page
+# "Landing" page
 
 This page contains:
 
@@ -21,7 +21,7 @@ There will be 4 vizualization pages. Each page contains:
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
 
-# "Comparisons" Page
+# "Comparisons" page
 
 This page have below specifications:
 
