@@ -34,7 +34,7 @@ There will be 4 vizualization pages. Each page contains:
 
 ### Max Temperature - Large Screen
 
-![Web](WebVisualizations/large_screen_Visualizations/Max%20_Temperature_Viz.png)
+![Web](WebVisualizations/large_screen_Visualizations/Max_Temperature_Viz.png)
 
 <br/>
 
