@@ -13,13 +13,13 @@ This page contains:
 * An explanation of the project.
 * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
-### Large Screen
+### Landing Page - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Landing_page_viz.png)
 
 <br/>
 
-### Small Screen
+### Landing Page - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/landing_page_viz.png)
 
@@ -32,46 +32,46 @@ There will be 4 vizualization pages. Each page contains:
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
 
-### Large Screen
+### Max Temperature - Large Screen
 
 ![Web](WebVisualizations/large_screen_Visualizations/Max%20_Temperature_Viz.png)
 
 <br/>
 
-### Small Screen
+### Max Temperature - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/max_temperature_viz.png)
 
 
-### Large Screen
+### Humidity - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Humidity_viz.png)
 
 <br/>
 
-### Small Screen
+### Humidity - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/humidity_viz.png)
 
 
-### Large Screen
+### Cloudiness - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Cloudiness_viz.png)
 
 <br/>
 
-### Small Screen
+### Cloudiness - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/cloudiness_viz.png)
 
 
-### Large Screen
+### Wind Speed - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Wind_Speed_viz.png)
 
 <br/>
 
-### Small Screen
+### Wind Speed - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/wind_speed_viz.png)
 
@@ -85,13 +85,13 @@ This page have below specifications:
     * The grid has two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
     
 
-### Large Screen
+### Comparison - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Comparison_viz.png)
 
 <br/>
 
-### Small Screen
+### Comparison - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/comparison_viz.png)
 
@@ -103,11 +103,13 @@ This page have below specifications:
 * Displays a responsive table containing the data used in the visualizations.
 * The table has a bootstrap table component. 
 
-### Large Screen
+### Data - Large Screen
 
 ![web](WebVisualizations/large_screen_Visualizations/Data_page.png)
 
 <br/>
+
+### Data - Small Screen
 
 ![web](WebVisualizations/small_screen_visualizations/data_viz.png)
 
