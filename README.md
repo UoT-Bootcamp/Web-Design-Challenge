@@ -124,4 +124,4 @@ The website, at the top of every page, have a navigation menu that:
 
 I have also deployed the website to the GitHub pages. Feel free to click the below link to visit the page:
 
-GitHub Pages link : 
+GitHub Pages link : https://uot-bootcamp.github.io/Web-Design-Challenge/WebVisualizations/
