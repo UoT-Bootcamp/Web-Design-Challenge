@@ -6,7 +6,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 This website is consist of 7 pages total, including:
 
-## "Landing" page
+## (1) "Landing" page:
 
 This page contains:
 
@@ -24,7 +24,7 @@ This page contains:
 ![web](WebVisualizations/small_screen_visualizations/landing_page_viz.png)
 
 
-# "Visualization" pages
+# (2) "Visualization" pages:
 
 There will be 4 vizualization pages. Each page contains:
 
@@ -76,7 +76,7 @@ There will be 4 vizualization pages. Each page contains:
 ![web](WebVisualizations/small_screen_visualizations/wind_speed_viz.png)
 
 
-# "Comparisons" page
+# (3) "Comparisons" page:
 
 This page have below specifications:
 
@@ -96,7 +96,7 @@ This page have below specifications:
 ![web](WebVisualizations/small_screen_visualizations/comparison_viz.png)
 
 
-# "Data" page
+# (4) "Data" page:
 
 This page have below specifications:
 
