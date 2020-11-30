@@ -1,4 +1,4 @@
-# Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude) - Web Design Challenge
 
 For this project, we'll be creating a visualization dashboard website using visualizations we've created in a past project. we'll be plotting weather data.
 
