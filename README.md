@@ -4,7 +4,7 @@ For this project, we'll be creating a visualization dashboard website using visu
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. We will also use media query to make our page responsive.
 
-### Click the [GitHub Pages link](https://uot-bootcamp.github.io/Web-Design-Challenge/WebVisualizations/) to view the webpage.<br>
+### Click the [GitHub Pages link](https://uot-bootcamp.github.io/Web-Visualization-Dashboard-Latitude/) to view the webpage.<br>
 
 
 This website is consist of 7 pages total, including:
